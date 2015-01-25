@@ -4,6 +4,6 @@
 
 This is a test repo for
 
-*Data Scientist's Tool Box
-*Assignment
-*Week 3
+* Data Scientist's Tool Box
+* Assignment
+* Week 3
